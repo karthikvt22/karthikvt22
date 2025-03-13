@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Karthik V T!  
 
-![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Full-Width Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 🚀 **Aspiring DevOps & AWS Cloud Engineer** | 💡 **Automation Enthusiast**  
 🎓 **Final-year Engineering Student | Electronics & Communication | BMSIT, Bangalore**  
