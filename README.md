@@ -13,11 +13,6 @@
 
 ---
 
-## 🏆 Featured Projects  
-🚀 **Automated AWS Usage Reporting Script** → [🔗 Repo Link](https://github.com/karthikvt22/your-project-link)  
-💻 **Campus Network Design Topology** → [🔗 Repo Link](https://github.com/karthikvt22/your-project-link)  
-🏋️ **Fitness Management System** → [🔗 Repo Link](https://github.com/karthikvt22/your-project-link)  
-
 ---
 
 ## 🚀 Tech Stack  
