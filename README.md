@@ -1,6 +1,6 @@
 # 🚀 Karthik V T - DevOps & Cloud Engineer
 
-![DevOps & Cloud GIF](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
+![High-Quality DevOps Banner](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 **Aspiring DevOps & AWS Cloud Engineer | Automation Enthusiast**  
 🎓 Final-year **Electronics & Communication Engineering** student at **BMSIT, Bangalore**  
@@ -55,7 +55,14 @@
 
 ---
 
+## 📊 GitHub Stats  
 
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikvt22&show_icons=true&theme=radical" width="50%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikvt22&theme=radical" width="50%" />  
+</p>  
+
+---
 
 ## 📫 Connect With Me  
 
