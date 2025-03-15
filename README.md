@@ -1,17 +1,15 @@
-#  👋 Hey there, I'm Karthik V T - DevOps & Cloud Engineer
+#  👋 Hey there, I'm Karthik V T - Aspiring DevOps & Cloud Engineer
 
 <p align="center">
   <img width="65%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="High-Quality DevOps Banner">
-</p>
-
-**Aspiring DevOps & AWS Cloud Engineer | Automation Enthusiast**  
-🎓 Final-year **Electronics & Communication Engineering** student at **BMS Institute of Technology and Management, Bangalore**  
-🔍 Seeking **DevOps & Cloud Engineering roles**  
+</p> 
 
 ---
 
 ## 🌟 About Me  
 🔧 Passionate about **automation, cloud infrastructure, and problem-solving with DevOps tools**.  
+🎓 Final-year **Electronics & Communication Engineering** student at **BMS Institute of Technology and Management, Bangalore**  
+🔍 Seeking **DevOps & Cloud Engineering roles**  
 📊 Strong expertise in **AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines**.  
 🛠️ Proficient in scripting with **Bash** for automation and optimization.  
 📈 Dedicated to delivering **scalable, secure, and high-performance cloud solutions**.  
