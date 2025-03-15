@@ -1,6 +1,6 @@
 # 🚀 Karthik V T - DevOps & Cloud Engineer
 
-![DevOps & Cloud GIF](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+![DevOps & Cloud GIF](https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif)
 
 **Aspiring DevOps & AWS Cloud Engineer | Automation Enthusiast**  
 🎓 Final-year **Electronics & Communication Engineering** student at **BMSIT, Bangalore**  
