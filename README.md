@@ -52,19 +52,9 @@
 ### **Campus Network Design | Networking & Security**  
 - Designed and configured **routers, switches, and servers** for a scalable **campus network**.  
 - Implemented **VLANs, RIPv2, Static Routing, and DHCP** for optimized security and performance.  
-
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikvt22&show_icons=true&theme=radical" width="48%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikvt22&theme=radical" width="48%" />  
-</p>  
-
----
-
-## 💋 Connect With Me  
+## Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik67/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/karthikvt22)  
