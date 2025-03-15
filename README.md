@@ -1,18 +1,20 @@
 # 🚀 Karthik V T - DevOps & Cloud Engineer
 
-![High-Quality DevOps Banner](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+<p align="center">
+  <img width="100%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="High-Quality DevOps Banner">
+</p>
 
 **Aspiring DevOps & AWS Cloud Engineer | Automation Enthusiast**  
-🎓 Final-year **Electronics & Communication Engineering** student at **BMSIT, Bangalore**  
+🎓 Final-year **Electronics & Communication Engineering** student at **Vemana Institute of Technology and Management, Bangalore**  
 🔍 Seeking **DevOps & Cloud Engineering roles**  
 
 ---
 
 ## 🌟 About Me  
-🔧 Passionate about **automation, cloud infrastructure, and solving problems with DevOps tools**.  
+🔧 Passionate about **automation, cloud infrastructure, and problem-solving with DevOps tools**.  
 📊 Strong expertise in **AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines**.  
 🛠 Proficient in scripting with **Bash** for automation and optimization.  
-📈 Focused on delivering scalable and secure cloud solutions.  
+📈 Dedicated to delivering **scalable, secure, and high-performance cloud solutions**.  
 
 ---
 
@@ -58,8 +60,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikvt22&show_icons=true&theme=radical" width="50%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikvt22&theme=radical" width="50%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikvt22&show_icons=true&theme=radical" width="48%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikvt22&theme=radical" width="48%" />  
 </p>  
 
 ---
@@ -74,4 +76,6 @@
 
 ✨ *Explore my repositories and let's build something awesome!* 🚀  
 
-![DevOps Workflow GIF]()
+<p align="center">
+  <img width="80%" src="YOUR_CUSTOM_GIF_OR_BANNER_LINK" alt="DevOps Workflow GIF">
+</p>
