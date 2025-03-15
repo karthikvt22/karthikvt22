@@ -1,11 +1,11 @@
-# 🚀 Karthik V T - DevOps & Cloud Engineer
+#  Karthik V T - DevOps & Cloud Engineer
 
 <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="High-Quality DevOps Banner">
 </p>
 
 **Aspiring DevOps & AWS Cloud Engineer | Automation Enthusiast**  
-🎓 Final-year **Electronics & Communication Engineering** student at **Vemana Institute of Technology and Management, Bangalore**  
+🎓 Final-year **Electronics & Communication Engineering** student at **BMS Institute of Technology and Management, Bangalore**  
 🔍 Seeking **DevOps & Cloud Engineering roles**  
 
 ---
@@ -13,7 +13,7 @@
 ## 🌟 About Me  
 🔧 Passionate about **automation, cloud infrastructure, and problem-solving with DevOps tools**.  
 📊 Strong expertise in **AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines**.  
-🛠 Proficient in scripting with **Bash** for automation and optimization.  
+🛠️ Proficient in scripting with **Bash** for automation and optimization.  
 📈 Dedicated to delivering **scalable, secure, and high-performance cloud solutions**.  
 
 ---
@@ -66,7 +66,7 @@
 
 ---
 
-## 📫 Connect With Me  
+## 💋 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik67/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/karthikvt22)  
@@ -74,8 +74,8 @@
 
 ---
 
-✨ *Explore my repositories and let's build something awesome!* 🚀  
+🌟 *Explore my repositories and let's build something awesome!* 🚀  
 
 <p align="center">
-  <img width="80%" src="YOUR_CUSTOM_GIF_OR_BANNER_LINK" alt="DevOps Workflow GIF">
+  <img width="80%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" alt="DevOps Workflow GIF">
 </p>
