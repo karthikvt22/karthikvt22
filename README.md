@@ -1,18 +1,17 @@
-# 👋 Hi, I'm Karthik V T!  
+# 👋 Hi, I'm Karthik V T!
 
 ![Full-Width Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 
 🚀 **Aspiring DevOps & AWS Cloud Engineer** | 💡 **Automation Enthusiast**  
 🎓 **Final-year Engineering Student | Electronics & Communication | BMSIT, Bangalore**  
 🔍 **Seeking DevOps & AWS Cloud Engineer roles**  
 
+---
+
 ## 🌟 About Me  
 🔧 Passionate about **automation, cloud infrastructure, and problem-solving** with DevOps tools.  
 📊 Strong knowledge in **AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines**.  
 🛠 Love scripting with **Bash** to optimize workflows and automate tasks.  
-
----
 
 ---
 
@@ -30,6 +29,15 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikvt22&show_icons=true&theme=radical" width="50%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikvt22&theme=radical" width="50%" />  
+</p>  
+
+---
+
 ## 📫 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik67/)  
@@ -40,4 +48,4 @@
 
 ✨ *Feel free to explore my repositories and contribute!* 🚀  
 
-![Typing Code GIF](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)  
+![Typing Code GIF](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
