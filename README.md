@@ -75,7 +75,7 @@
 ## 💼 Opportunities  
 📍 Based in **Bangalore, India** | Open to relocation & remote  
 🎯 Looking for **Software Development | DevOps | Cloud Engineer | SRE** roles (Full-time, 2025 onwards)  
-📫 Reach me: **karthikvt2190694@gmail.com** | **6362919771**  
+📫 Reach me: **karthikvt2190694@gmail.com** 
 
 ---
 
