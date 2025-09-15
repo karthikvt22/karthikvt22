@@ -1,8 +1,9 @@
 # 👋 Hey there, I'm Karthik V T  
 
 <p align="center">
-  <img width="70%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="DevOps Banner">
+  <img width="70%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Developer">
 </p>
+
 
 ---
 
