@@ -6,8 +6,7 @@
 
 ---
 
-## 🌟 About Me  
-🎓 Final-year **Electronics & Communication Engineering** student at **BMS Institute of Technology and Management, Bangalore**  
+## 🌟 About Me   
 💻 Aspiring **Software Developer** | **DevOps & Cloud Engineer**  
 🔧 Experienced in **designing scalable systems, implementing automation, and streamlining deployments**  
 📈 Passionate about **building reliable software & resilient cloud infrastructure**  
